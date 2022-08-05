@@ -1,0 +1,209 @@
+body{
+   background-color: #E5E5E5; 
+}
+
+
+
+
+h1{
+    font-weight: bold;
+    text-align: center;
+    font-size: 45px;
+    line-height: 1;
+    letter-spacing: 3;
+    margin-top: 50px;
+
+}
+
+.deux{
+    margin-top: 5%;
+}
+
+.cinko{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+/* <!-- ---------------------------------vignette1------------------------------>             */
+
+
+.vignette1{
+    overflow: hidden;
+    text-align: center;
+    background-color: white;
+    width: 250px;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 0px 0px 15px 15px;
+    height: 400px;
+    margin-top: 20px;
+
+}
+
+.p1{
+    font-size: 20px;
+    letter-spacing: 1;
+    font-weight: 400;
+    line-height: 1.7;
+    padding: 10px;
+}
+
+
+
+#uno{
+    /* background-color: white;
+    width: 250px;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 0px 0px 15px 15px;
+    height: 400px; */
+}
+
+.unoo{
+    background-color: #E142DC;
+    width: 250px;
+    margin-left: -12px;
+    height: 20px;
+}
+
+.rose{
+    background-image: url(loupe.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 78px;
+    margin-left: 35%;
+}
+
+.t1{
+    font-size: 30px;
+
+}
+
+/* <!-- ---------------------------------vignette1------------------------------>             */
+
+.vignette2{
+    overflow: hidden;
+    text-align: center;
+    background-color: white;
+    width: 250px;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 0px 0px 15px 15px;
+    height: 400px;
+    margin-top: 20px;
+
+}
+
+
+#dos{
+    /* background-color: white;
+    width: 250px;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 0px 0px 15px 15px;
+    height: 400px; */
+}
+
+.doss{
+    background-color: #2CBECC;
+    width: 250px;
+    margin-left: -12px;
+    height: 20px;
+}
+
+.bleu{
+    background-image: url(bleu.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 78px;
+    margin-left: 35%;
+}
+
+.t2{
+    font-size: 30px;
+}
+
+/* <!-- ---------------------------------vignette2------------------------------>             */
+
+.vignette3{
+    overflow: hidden;
+    text-align: center;
+    background-color: white;
+    width: 250px;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 0px 0px 15px 15px;
+    height: 400px;
+    margin-top: 20px;
+
+}
+
+
+#tres{
+    /* background-color: white;
+    width: 250px;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 0px 0px 15px 15px;
+    height: 400px; */
+}
+
+.tress{
+    background-color: #6751E7;
+    width: 250px;
+    margin-left: -12px;
+    height: 20px;
+}
+
+.bleuf{
+    background-image: url(bleufonce.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 78px;
+    margin-left: 35%;
+}
+
+.t3{
+    font-size: 30px;
+    
+}
+
+/* <!-- ---------------------------------vignette3------------------------------>             */
+
+.vignette4{
+    overflow: hidden;
+    text-align: center;
+    background-color: white;
+    width: 250px;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 0px 0px 15px 15px;
+    height: 400px;
+    margin-top: 20px;
+
+}
+
+#quatro{
+    /* background-color: white;
+    width: 250px;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 0px 0px 15px 15px;
+    height: 400px; */
+}
+
+.quatroo{
+    background-color: #F1C50E;
+    width: 250px;
+    margin-left: -12px;
+    height: 20px;
+}
+
+.jaune{
+    background-image: url(jaune.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 78px;
+    margin-left: 35%;
+}
+
+.t4{
+    font-size: 30px;
+    
+}
+
+/* <!-- ---------------------------------vignette4------------------------------>             */
